@@ -1,0 +1,21 @@
+Execution times
+200 logs, 8 cores: 12.68
+200 logs, 4 cores: 13.47
+200 logs, 2 cores: 8.74
+200 logs, 1 core: 7.11
+5000 logs, 8 cores: 48.1
+5000 logs, 4 cores: 47.89
+5000 logs, 2 cores: 30.31
+5000 logs, 1 cores: 29.29
+10000 logs, 8 cores: 51.98
+10000 logs, 4 cores: 63.49
+10000 logs, 2 cores:47.96
+10000 logs, 1 core:59.93
+20000 logs, 8 cores:50.11
+20000 logs, 4 cores:59.26
+20000 logs, 2 cores:38.29
+20000 logs, 1 cores:53.03
+50000 logs, 8 cores:55.54
+50000 logs, 4 cores:72.46
+50000 logs, 2 cores:53.01
+50000 logs, 1 core:72.82
